@@ -1,0 +1,27 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m"
+    xmlns:f="sap.f" controllerName="sap.hr.hire.controllers.beginColumn" height="100%">
+    <f:DynamicPage id="beginColumn" showFooter="true">
+        <!-- <f:header>
+            <f:DynamicPageHeader id="beginColumnHeader">
+                <Title id="beginColumnTitle" visible="true"></Title> 
+                <f:DynamicPageTitle id="beginColumnTitle">
+                    <f:heading>
+                        <Title text="{i18n>beginColumnTitle}" id="beginHeading"></Title>
+                    </f:heading>
+                </f:DynamicPageTitle>
+
+            </f:DynamicPageHeader>
+        </f:header> -->
+        <f:title>
+            <f:DynamicPageTitle id="dynamicpagetitle">
+                <f:heading>
+                    <Title text="Hello World!" id="title" />
+                </f:heading>
+            </f:DynamicPageTitle>
+        </f:title>
+
+        <f:content>
+        </f:content>
+    </f:DynamicPage>
+</mvc:View>

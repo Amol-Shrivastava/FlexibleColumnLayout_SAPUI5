@@ -1,0 +1,9 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m"
+    xmlns:f="sap.f">
+    <f:DynamicPage id="beginColumn" showFooter="true">
+        <f:content>
+            <Title text="{i18n>beginColumnTitle}"></Title>
+        </f:content>
+    </f:DynamicPage>
+</mvc:View>

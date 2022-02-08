@@ -1,6 +1,0 @@
-<mvc:View xmlns:mvc="sap.ui.core.mvc"
-    xmlns="sap.m" controllerName="sap.hr.hire.controllers.empty">
-
-    <Image id="emptyImage" alt="empty column image" src="../assests/fruit_basket.jpg"></Image>
-
-</mvc:View>
